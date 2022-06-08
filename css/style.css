@@ -1,0 +1,54 @@
+h1{
+	font-size: 50px;
+	text-align: center;
+   background-image: url(../images/flower3.jpg);
+   background-size: 1300px;
+   background-repeat: no-repeat;
+}
+ 
+
+ details[open] > summary{
+              background-color: aqua;
+ }
+
+ div{border: 3px solid gray;
+ 	background-color: gray;
+ }
+ 
+ article{
+    width: 65%;
+    padding: 10px;
+    float: left;
+ }
+
+ aside{
+    width: 31%;
+    background-color: gray;
+    color: white;
+    float: left;
+    padding: 10px;
+    text-align: center;
+ }
+ 
+ h4{
+   background-image: url(../images/flower2.jpg);
+   background-size: 1300px;
+   background-repeat: no-repeat;
+ }
+ h5{
+   font-size: 50px;
+   text-align: center;
+}
+ 
+ footer{
+   font-size: 25px;
+   background-image: url(../images/andy-vu-.jpg);
+   background-size: 1300px;
+   background-repeat: no-repeat;
+ }
+ body{
+   background-image: url(../images/flower.jpg);
+   background-size: 13000px;
+   background-repeat: no-repeat;
+
+ }

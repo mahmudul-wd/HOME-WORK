@@ -1,0 +1,103 @@
+html folder link:
+https://drive.google.com/drive/folders/1tE9PEntWzxRB2Z0DlNoYbDNd4rl0XS74?usp=sharing
+what is html?
+
+hypertext markup laguage
+
+hypertext mens:masien readable,content or page link
+markup mens:stractrue redy
+
+why html?
+because you can not start creating a website withaut html.
+
+how it's work?
+element-jar suru ace shes ace and majkhane content ace take element bole.
+tag-jar suru ace shes nai take tag bole.
+attribute-additional data - name="value" - pair
+html ar bhashay aguloke sentex bole.
+
+project folder:
+kajer jinis gulo sundor kore guchiy rakhar jonno/organiged
+rakhar jonno project folder dorkar.
+
+project file:
+
+
+
+root derectory:
+project folder a dokar por e je jaygata dekha jay take root derectory bole.
+root derectory te must [index.html] file ta thakte hobo na thakle/onno jaygay thakle
+server ai index.html/main file ta ke run korte parbe na.
+
+file extention:
+.html/.mp3/.mp4
+https mens: hyper txt transfer protocol security.
+
+editor:
+noteped++,sublime text.
+coding korar jonno.
+
+html template:
+without html template html code sothik hobe na.
+<!doctype html>
+
+
+class 2:
+     html content:
+note: noncopyright paragrph ar jonno (lorem ipsum)
+      free imege ar jonno (pexels)
+title- <h1> - <h6>
+text- <p>
+link- link 2 doroner
+    internal-website ar akta page/content ar aktar sathe conection.
+    external-website + website conection. 
+
+element- <h1>,<p>,<html>,<head>,<body>
+tag-imege-(src) internal-file-downlod.
+       external-server-file-link-cdn.
+       cdn-content delevary network.
+
+attirebute-additional data-name="value"- pair
+
+ https://www.w3schools.com/tags/default.asp
+
+speed opt-
+    content:
+    text- fast
+    image-loding slow
+    audio-loding slow
+    video-loding slow
+    map-loding slow
+
+    seo:
+        h1-h6
+        <p>
+        ima-image name tag taitle alt
+
+
+                                                CSS
+
+ css mens: cascading style seets.
+ how it works
+
+ 3 type of css
+    inline css-1%
+    internal css-0,1%
+    external css-use 100%    
+
+    css sendex-
+    selector{
+            property:valuse
+    }
+
+
+
+
+
+
+
+
+
+
+
+
